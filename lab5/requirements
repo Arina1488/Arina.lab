@@ -1,1 +1,10 @@
-
+requests = 2.31.0
+numpy = 1.26.2
+pandas = 2.1.4
+matplotlib = 3.8.2
+Faker = 23.3.0
+math = Python 3.12
+random = Python 3.12
+datetime = Python 3.12
+json = Python 3.12
+os = Python 3.12
